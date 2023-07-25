@@ -1,8 +1,8 @@
-assignment3
+# Assignment Two - Build It Without Bootstrap
  
-To Complete This Assignment: 
+## To Complete This Assignment: 
 
-1.) Review the following layout featured on https://getbootstrap.com/ : 
+1.) Review the following layout featured on https://getbootstrap.com/
 
 Selected This Template: https://getbootstrap.com/docs/4.0/examples/product/
 
