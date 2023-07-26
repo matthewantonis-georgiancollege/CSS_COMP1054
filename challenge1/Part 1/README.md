@@ -7,6 +7,7 @@
 2.) Add CSS to your document - remember to follow best practices re: adding CSS, formatting CSS & organizing your CSS 
 
 3.) Style your HTML document according to the following requirements: 
+    
     a.) utilize at least four types of selectors and include a comment identifying the different types of selectors 
     
     b.) you can only add one additional class or ID to the page 
