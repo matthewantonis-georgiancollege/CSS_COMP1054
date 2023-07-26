@@ -17,4 +17,4 @@ Notes:
 ### Assignment Due Date: May 26th, 2023
 ### Mark Received: 100%
 
-View The Website Here... https://matthewantonis.github.io/CSS_Challenge1_Part2/)https://matthewantonis.github.io/CSS_Challenge1_Part2/
+View The Website Here... [LINK](https://matthewantonis.github.io/CSS_Challenge1_Part2/)
