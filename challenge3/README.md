@@ -6,7 +6,7 @@
 
 - Use the provided .png in the folder to compare the template to my design.
 
-![image](challenge3/Screenshot_Of_Template_Website.png width="200" height="400")
+![](https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/blob/main/challenge3/Screenshot_Of_Template_Website.png?raw=true =250x250)
 
 Notes: 
 - Making the website responsive was not necessary 
