@@ -6,6 +6,8 @@
 
 - Use the provided .png in the folder to compare the template to my design.
 
+![image](https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/f4137272-ffbf-4ee7-83f5-f45ccf981433)
+
 Notes: 
 - Making the website responsive was not necessary 
 - Created using Chrome
