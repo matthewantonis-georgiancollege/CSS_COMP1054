@@ -11,6 +11,7 @@ Selected This Template: https://getbootstrap.com/docs/4.0/examples/product/
 Notes: 
 - Making the website responsive is not necessary 
 - Created using Chrome
+- Problems when using a different scale screen than 16:9 
 
 
 ### Assignment Due Date: July 26th, 2023
