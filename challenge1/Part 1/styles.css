@@ -1,0 +1,57 @@
+/* Typography */ 
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    scroll-behavior: smooth;
+    font-size: 10px;
+    font-weight: 300;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+div.wrapper {
+    background-color: #a69f9f;
+    width: 50vw;
+    max-height: 100vh;
+    margin: 0 auto; 
+}
+
+h1, 
+h2 {
+    font-weight: 600; 
+}
+
+#title {
+    font-size: 3.5em;
+}
+
+h2,
+h3 {
+    font-size: 1.8em;
+}
+
+
+p {
+    color: initial; /* Default color */
+}
+
+ul,
+p {
+    font-size: 1.5em;
+}
+
+ul li:nth-child(odd) {
+    font-weight: bold;
+  }
+  
+img {
+    box-sizing: border-box;
+    max-width: 100%;
+    max-height: 70vh; 
+}
+
+footer > p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
