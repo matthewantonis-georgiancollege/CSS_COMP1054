@@ -4,7 +4,7 @@
 
 1.) Review the following layout featured on... https://getbootstrap.com/
 
-Selected This Template: https://getbootstrap.com/docs/4.0/examples/product/
+- Selected This Template: https://getbootstrap.com/docs/4.0/examples/product/
 
 <img width="600" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/1d304ad5-601a-4a5d-89fd-a62272fd250f">
 
