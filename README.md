@@ -7,4 +7,5 @@ Difficulty Goes from Highest to Lowest:
 - Assignment
 - Challenge
 
+### May 8th 2023 - August 18th 2023
 ### Current Weighted Grade: 98.94%
