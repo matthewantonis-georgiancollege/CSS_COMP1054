@@ -2,7 +2,7 @@
 
 This is a directory of all my completed works from my CSS course at Georgian College.
 
-Difficulty Goes from Highest Difficulty to Lowest:
+Difficulty Goes from Highest to Lowest:
 - Project
 - Assignment
 - Challenge
