@@ -8,15 +8,15 @@
 
 3.) Style your HTML document according to the following requirements: 
     
-    a.) utilize at least four types of selectors and include a comment identifying the different types of selectors 
-    
-    b.) you can only add one additional class or ID to the page 
-    
-    c.) style the list with every odd bullet point in bold 
-    
-    d.) Style the background of div.wrapper with a hex colour of your choosing. Set the width to a percentage of the viewport and margin to 0 auto. 
-    
-    e.) set all text on the page to the hex color #333 EXCEPT for the paragraph element, which should remain the default color(try to do this in as little code as possible) 
+a.) utilize at least four types of selectors and include a comment identifying the different types of selectors 
+
+b.) you can only add one additional class or ID to the page 
+
+c.) style the list with every odd bullet point in bold 
+
+d.) Style the background of div.wrapper with a hex colour of your choosing. Set the width to a percentage of the viewport and margin to 0 auto. 
+
+e.) set all text on the page to the hex color #333 EXCEPT for the paragraph element, which should remain the default color(try to do this in as little code as possible) 
 
 4.) Upload all code files to a repository on Github, set the repository to private, and add me as a collaborator.
 
