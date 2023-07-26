@@ -2,9 +2,9 @@
  
 ## To Complete This Assignment: 
 
-1.) Use Flexbox to recreate a provided interface layout design "Flexin’ with Flexbox"
+1.) Use Flexbox to recreate a provided interface layout design "Flexin’ with Flexbox".
 
-- Use the provided .png in the folder to compare the template to my design.
+- The image below was the template I had to copy.
 
 <img width="400" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/blob/main/challenge3/Screenshot_Of_Template_Website.png?raw=true">
 
