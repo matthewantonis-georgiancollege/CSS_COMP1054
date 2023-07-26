@@ -2,7 +2,7 @@
  
 ## To Complete This Assignment: 
 
-1.) Review the following layout featured on https://getbootstrap.com/
+1.) Review the following layout featured on... https://getbootstrap.com/
 
 Selected This Template: https://getbootstrap.com/docs/4.0/examples/product/
 
@@ -15,6 +15,6 @@ Notes:
 
 
 ### Assignment Due Date: July 26th, 2023
-### Mark Recieved: ???
+### Mark Received: ???
 
 View The Website Here... https://matthewantonis.github.io/CSS_Assignment2/
