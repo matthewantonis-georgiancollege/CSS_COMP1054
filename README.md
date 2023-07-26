@@ -7,4 +7,4 @@ Difficulty Goes from Highest to Lowest:
 - Assignment
 - Challenge
 
-
+### Current Weighted Grade: 98.94%
