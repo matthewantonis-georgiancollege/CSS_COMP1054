@@ -14,7 +14,7 @@ Template to Copy From...
 My Final Version...
 
 <p align="center">
-<img width="400" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/dae38f11-c91c-4da3-835b-1ee651bcd02b">
+<img width="400" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/5fdd3723-2455-41c6-bb84-2fdc3a8f0bb2">
 </p>
 
 Notes: 
