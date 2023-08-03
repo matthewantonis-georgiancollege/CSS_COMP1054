@@ -7,11 +7,15 @@
 
 Template to Copy From...
 
+<p align="center">
 <img width="400" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/c3507c9d-ebc3-4fcf-80bb-d7589aecf291">
+</p>
 
 My Final Version...
 
+<p align="center">
 <img width="400" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/dae38f11-c91c-4da3-835b-1ee651bcd02b">
+</p>
 
 Notes: 
 - Created using Chrome
