@@ -14,10 +14,9 @@ My Final Version...
 <img width="400" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/dae38f11-c91c-4da3-835b-1ee651bcd02b">
 
 Notes: 
-- Making the website responsive was not necessary 
 - Created using Chrome
 
-### Assignment Due Date: June 21st, 2023
-### Mark Received: 100%
+### Assignment Due Date: August 4th, 2023
+### Mark Received: to be graded
 
-View The Website Here... [LINK](https://matthewantonis.github.io/CSS_Challenge3/)
+View The Website Here... [LINK]()
